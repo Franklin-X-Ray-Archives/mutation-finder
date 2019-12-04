@@ -1,9 +1,9 @@
 import unittest
 
-class utest_mutation-finder(unittest.TestCase):
-    """docstring for utest_mutation-finder."""
+class utest_mutation_finder(unittest.TestCase):
+    """docstring for utest_mutation_finder."""
     def __init__(self, arg):
-        super(utest_mutation-finder, self).__init__()
+        super(utest_mutation_finder, self).__init__()
         self.arg = arg
 
     def setUp(self):
