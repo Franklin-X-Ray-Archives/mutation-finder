@@ -20,6 +20,5 @@ jobs:
 
     - name: Test with unittest
       run: |
-        pip install unittest
         python test/unitTest.py
 
